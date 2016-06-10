@@ -6,6 +6,7 @@ package com.javarush.test.level09.lesson02.task01;
 
 public class Solution
 {
+    //test comment
     public static void main(String[] args) throws Exception
     {
         method1();
